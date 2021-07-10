@@ -1,4 +1,4 @@
-Welcome to the Adding-new-DOF-task-3-week2
+ Adding-new-DOF-task-3-week2
 
 the task is about adding a new Degree of freedom. To do that you need to add a new link to the robot arm.
 
